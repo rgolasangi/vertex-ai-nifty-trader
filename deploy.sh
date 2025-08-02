@@ -1,1 +1,3 @@
-# Sample content for deploy.sh
+#!/bin/bash
+
+echo 'Deploying full Vertex AI trading bot...'
